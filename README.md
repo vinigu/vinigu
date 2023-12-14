@@ -57,7 +57,7 @@ sou o [@vini_gu](https://www.instagram.com/vini_gu/) no insta, e email [vgustavo
 #### 🚉 Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinigu&count_private=true&include_all_commits=true&show_icons=true&bg_color=30,0e45ed,c6b61f&title_color=fff&text_color=fff) <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinigu)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinigu&langs_count=8)
 
 
 <!---
