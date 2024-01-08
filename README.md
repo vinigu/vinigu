@@ -14,7 +14,7 @@ ReactJS, Typescript, Jquery, VueJS e no backend PHP Laravel, AdonisJS, Express c
 * linx confluence
 
 ### 📫 Se quiser me achar: 
-sou o [@vini_gu](https://www.instagram.com/vini_gu/) no insta, e email [vgustavobzr@gmail.com](vgustavobzr@gmail.com) 
+sou o [@vini_gu.jsx](https://www.instagram.com/vini_gu.jsx/) no insta, e email [vgustavobzr@gmail.com](vgustavobzr@gmail.com) 
 
 
 #### 💻 : Technologies
