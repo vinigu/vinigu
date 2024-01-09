@@ -3,7 +3,7 @@
 eu sou o @vinigu vulgo Vinicius Gustavo Bezerra
 
 ### 👀 Eu sou apaixonado por código 🧑🏻‍💻
-Atualmente sou fullstack Developer na [Armac](https://armac.com.br/sobre-nos/) atuando com HTML, CSS, JAVASCRIPT, JQUERY, LESS, SASS, REACTJS, VUEJS e um aprendendo PHP, LARAVEL, NODEJS, ADONISJS, NUXT, NEST e utilizando banco de dados relacionais e não relacionais MYSQL, MONGODB, SQLSERVER, CASSANDRA.
+Atualmente sou fullstack Developer na [Armac](https://armac.com.br/sobre-nos/) atuando com HTML, CSS, JAVASCRIPT, JQUERY, LESS, SASS, REACTJS, VUEJS e aprendendo PHP, LARAVEL, NODEJS, ADONISJS, NUXT, NEST e utilizando banco de dados relacionais e não relacionais MYSQL, MONGODB, SQLSERVER, CASSANDRA.
 
 ### 🌱 Atuo principalmente com
 ReactJS, Typescript, Jquery, VueJS e no backend PHP Laravel, AdonisJS, Express com Nest
