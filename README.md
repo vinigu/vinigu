@@ -3,7 +3,7 @@
 eu sou o @vinigu vulgo Vinicius Gustavo Bezerra
 
 ### 👀 Eu sou apaixonado por código 🧑🏻‍💻
-Atualmente sou fullstack Developer atuando com HTML, CSS, JAVASCRIPT, JQUERY, LESS, SASS, REACTJS, VUEJS e aprendendo PHP, LARAVEL, NODEJS, ADONISJS, NUXT, NEST e utilizando banco de dados relacionais e não relacionais MYSQL, MONGODB, SQLSERVER, CASSANDRA.
+Atualmente sou fullstack Developer atuando com HTML, CSS, ReactJs, NextJs, React Native, VUEJS e aprendendo PHP, LARAVEL, NODEJS, ADONISJS, NUXT, NEST e utilizando banco de dados relacionais e não relacionais MYSQL, MONGODB, SQLSERVER, CASSANDRA.
 
 ### Atuo principalmente com
 ReactJS, Typescript, Jquery, VueJS, Vuex, NextJs e no backend PHP Laravel e cakePHP e no NodeJS com AdonisJS, Express e Nest
